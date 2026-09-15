@@ -1,0 +1,6 @@
+{
+  "name": "Viajes Mercosur - Plataforma Turística",
+  "description": "Prototipo interactivo de la agencia de viajes para el Mercosur: búsqueda de vuelos y paquetes, mapa de asientos, reservas con plazo de 24hs, pagos seguros con token bancario, voucher PDF con QR, políticas de reembolso, atención con agente y back-office.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
